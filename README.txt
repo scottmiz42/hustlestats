@@ -17,3 +17,6 @@ Features:
 - Load or delete saved games
 - CSV export
 - Offline PWA support
+
+Hustle Score update:
+- Every tracked stat is worth exactly 1 point.
