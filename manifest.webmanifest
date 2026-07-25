@@ -1,12 +1,12 @@
 {
-  "name": "Hustle Stats Basketball",
+  "name": "Hustle Stats V2",
   "short_name": "Hustle Stats",
-  "description": "A youth basketball hustle-stat tracker.",
+  "description": "A polished youth basketball hustle tracker.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#f3f4f6",
-  "theme_color": "#111827",
+  "background_color": "#eef1f5",
+  "theme_color": "#0b1220",
   "orientation": "portrait-primary",
   "icons": [
     {

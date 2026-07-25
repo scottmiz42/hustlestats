@@ -1,22 +1,22 @@
-HUSTLE STATS BASKETBALL APP
+HUSTLE STATS V2
 
-Upload the entire folder to an HTTPS host such as GitHub Pages, Netlify, or Cloudflare Pages.
-
-Windows PC setup:
-1. Unzip this file.
-2. Upload the folder contents so index.html is at the website root.
-3. Open the site in Safari on iPhone.
-4. Tap Share > Add to Home Screen.
+Upload all files in this folder to the root of your GitHub Pages repository.
 
 Features:
-- Large one-tap game counters
-- Minus correction and undo
-- Weighted Hustle Score
-- Season totals and per-game average
-- Saved game history
-- Load or delete saved games
+- Polished sports-app design
+- Bold stat numbers
+- All stats worth 1 point
+- Player name and jersey number
+- Game tracking, undo, corrections
+- Season dashboard
+- Hustle awards
+- Game history
 - CSV export
 - Offline PWA support
 
-Hustle Score update:
-- Every tracked stat is worth exactly 1 point.
+To update GitHub:
+1. Open your repository.
+2. Add file > Upload files.
+3. Upload all files and replace existing files.
+4. Commit changes.
+5. Wait about 1-2 minutes and refresh the site.
